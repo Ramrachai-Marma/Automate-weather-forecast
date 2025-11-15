@@ -45,6 +45,9 @@ env/
 *.pdf
 !post.png
 !story.png
+# Allow sample outputs in samples folder
+!samples/*.png
+!samples/*.pdf
 
 # API Keys (extra safety)
 *api_key*

@@ -67,6 +67,14 @@ The script will:
 - `2024-01-15Jaipur.png` / `2024-01-15Jaipur.pdf`
 - `2024-01-15New York.png` / `2024-01-15New York.pdf`
 
+## 📸 Sample Output
+
+Example output files are available in the `samples/` folder:
+- [Sample London Forecast (PNG)](samples/sample-london.png)
+- [Sample London Forecast (PDF)](samples/sample-london.pdf)
+
+These samples demonstrate what the generated weather forecast images look like.
+
 ## 🏙️ Configured Cities
 
 ### United Kingdom
