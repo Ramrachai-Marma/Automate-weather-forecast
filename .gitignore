@@ -2,6 +2,14 @@
 .env
 .env.local
 .env.*.local
+.venv/
+venv/
+Weather/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
 
 # Python
 __pycache__/
@@ -60,4 +68,3 @@ env/
 # OS
 Thumbs.db
 .DS_Store
-
